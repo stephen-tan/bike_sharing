@@ -11,19 +11,16 @@ Key statistics from the August 2019 Citi Bike data:
 - Of all the riders, 65% were male and 25% were female; the gender of the other 10% was unknown
 - 81% of those users had a Citi Bike subscription
 - The highest density of rides were taken in Manhattan
-</br>
 
 ### Top Starting Locations
 ![Top Starting Locations](Images/Top-Starting-Locations.png)
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ### Top Ending Locations
 ![Top Ending Locations](Images/Top-Ending-Locations.png)</br>
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ### Checkout Times for Users
 ![Checkout Times for Users](Images/Checkout-Times-for-Users.png)
