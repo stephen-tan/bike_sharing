@@ -1,19 +1,25 @@
 # Bike Sharing (NYC Citi Bike)
 
 ## Project Overview
-The purpose of this project was to use publicly available New York City Citi Bike data with Tableau data visualization to explore a potential bike-sharing program in Des Moines, Iowa.<br/>
+The purpose of this project was to use publicly available New York City Citi Bike data (from August 2019) with Tableau data visualization to explore a potential bike-sharing program in Des Moines, Iowa.<br/>
 
 ## Results
 [Tableau Analysis](https://public.tableau.com/app/profile/stephen.tan2882/viz/NYCCitiBikeStory_16277767860180/NewYorkCityCitiBikeStory?publish=yes)
 
-The webpage has five filter text boxes on the lefthand side, each with placeholders for examples on how to input a search criteria. One thing to note is that not all filters have to be used. Once a filter is input in the text box, the user needs to hit the 'Enter' key on the keyboard to initiate the filter. More than one filter is also able to be entered. </br></br>
+Key statistics from the August 2019 Citi Bike data:
+- 2.3m+ rides across NYC
+- Of all the riders, 65% were male and 25% were female; the gender of the other 10% was unknown
+- 81% of those users had a Citi Bike subscription
+- The highest density of rides were taken in Manhattan
+</br></br>
 
-In order to reset the filters, the webpage can be refreshed or the filters can be deleted and then the 'Enter' key should be pressed again. </br></br>
-
-In the webpage screenshot above, a filter search was performed for UFO sightings for the criteria below:
-- State = "ca"
-- Country = "us"
-- Shape = "triangle"
+![Top Starting Locations](Images/Top-Starting-Locations.png)
+![Top Ending Locations](Images/Top-Ending-Locations.png)
+![Checkout Times for Users](Images/Checkout-Times-for-Users.png)
+![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)
+![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)
+![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)
+![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)
 
 ## Summary
 One drawback of the webpage is that there is no filtering of searches. For example, if a user enters any inputs that are not in the dataset, then the webpage shows a blank table instead of saying that there are no searches found.</br>
