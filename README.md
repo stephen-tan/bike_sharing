@@ -54,6 +54,8 @@ Key statistics from the August 2019 Citi Bike data:
 - Males have more Citi Bike subscriptions than females, but the same cannot be said for those that do not subscribe
 
 ## Summary
-Explain.</br>
+The Tableau analysis shows that the August 2019 Citi Bike usage peaked during general weekday commute hours, especially by males, in the borough of Manhattan, which proves that the Citi Bike infrastrucutre is a reliable alternative to public transportaion.
 
-Additional analyses such as (1) throughout different times of the year (perhaps one in each season) would show how the seasons and (2) weather affect Citi Bike usage. These analyses would help determine trends amongst customers and subscribers.
+Additional analyses such as the ones mentioned below would contribute to a more complete visualization
+(1) Gather datasets with different times of the year (perhaps one in each season) would show how the seasons and weather affect Citi Bike usage
+(2) Plot available bike count at each Citi Bike station and calcualte the percentage of bikes that get used at each station
