@@ -13,19 +13,23 @@ Key statistics from the August 2019 Citi Bike data:
 - The highest density of rides were taken in Manhattan
 </br></br>
 
-###Top Starting Locations
-![Top Starting Locations](Images/Top-Starting-Locations.png)</br>
-###Top Ending Locations
+### Top Starting Locations
+![Top Starting Locations](Images/Top-Starting-Locations.png)
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
+### Top Ending Locations
 ![Top Ending Locations](Images/Top-Ending-Locations.png)</br>
-###Checkout Times for Users
+### Checkout Times for Users
 ![Checkout Times for Users](Images/Checkout-Times-for-Users.png)</br>
-###Checkout Times by Gender
+### Checkout Times by Gender
 ![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)</br>
-###Trips by Weekday per Hour
+### Trips by Weekday per Hour
 ![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)</br>
-###Trips by Gender
+### Trips by Gender
 ![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)</br>
-###User Trips by Gender by Weekday
+### User Trips by Gender by Weekday
 ![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)</br>
 
 ## Summary
