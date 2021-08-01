@@ -11,7 +11,7 @@ Key statistics from the August 2019 Citi Bike data:
 - Of all the riders, 65% were male and 25% were female; the gender of the other 10% was unknown
 - 81% of those users had a Citi Bike subscription
 - The highest density of rides were taken in Manhattan
-</br></br>
+</br>
 
 ### Top Starting Locations
 ![Top Starting Locations](Images/Top-Starting-Locations.png)
@@ -21,16 +21,39 @@ Key statistics from the August 2019 Citi Bike data:
 
 ### Top Ending Locations
 ![Top Ending Locations](Images/Top-Ending-Locations.png)</br>
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
 ### Checkout Times for Users
-![Checkout Times for Users](Images/Checkout-Times-for-Users.png)</br>
+![Checkout Times for Users](Images/Checkout-Times-for-Users.png)
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
 ### Checkout Times by Gender
-![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)</br>
+![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)<
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
 ### Trips by Weekday per Hour
-![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)</br>
+![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
 ### Trips by Gender
-![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)</br>
+![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)<
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
+
 ### User Trips by Gender by Weekday
-![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)</br>
+![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)
+</br>
+- Most bikes are checked out around Midtown in Mahattan
+</br>
 
 ## Summary
 One drawback of the webpage is that there is no filtering of searches. For example, if a user enters any inputs that are not in the dataset, then the webpage shows a blank table instead of saying that there are no searches found.</br>
