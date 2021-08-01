@@ -32,25 +32,21 @@ Key statistics from the August 2019 Citi Bike data:
 ![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)<
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ### Trips by Weekday per Hour
 ![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ### Trips by Gender
 ![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)<
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ### User Trips by Gender by Weekday
 ![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)
 </br>
 - Most bikes are checked out around Midtown in Mahattan
-</br>
 
 ## Summary
 One drawback of the webpage is that there is no filtering of searches. For example, if a user enters any inputs that are not in the dataset, then the webpage shows a blank table instead of saying that there are no searches found.</br>
