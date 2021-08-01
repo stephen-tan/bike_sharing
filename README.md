@@ -16,39 +16,44 @@ Key statistics from the August 2019 Citi Bike data:
 ![Top Starting Locations](Images/Top-Starting-Locations.png)
 </br>
 - Most bikes are checked out around Midtown in Mahattan
+- Bikes that are checked out at Brooklyn often do not get checked back in at Brooklyn
 
 ### Top Ending Locations
 ![Top Ending Locations](Images/Top-Ending-Locations.png)</br>
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- Most bikes are also checked in around Midtown in Mahattan
+- More bikes are checked in at Manhattan than at Brooklyn
 
 ### Checkout Times for Users
 ![Checkout Times for Users](Images/Checkout-Times-for-Users.png)
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- 4 to 6 hours is typically how long bikes are checked out for
+- 5 hours is the most frequent check-out time
 </br>
 
 ### Checkout Times by Gender
 ![Checkout Times by Gender](Images/Checkout-Times-by-Gender.png)<
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- Males take around 3x more bike rides than females
 
 ### Trips by Weekday per Hour
 ![Trips by Weekday per Hour](Images/Trips-by-Weekday-per-Hour.png)
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- Peak bike usage is generally between 7-9AM and 5-6PM on weekdays
+- Wednesday is the least busy bike day
+- Saturdays and Sundays have the most bike usage between 9AM and 7PM
 
 ### Trips by Gender
 ![Trips by Gender](Images/Trips-by-Gender-Weekday-per-Hour.png)<
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- Males commute by bike more than females do, especially on weekdays
 
 ### User Trips by Gender by Weekday
 ![User Trips by Gender by Weekday](Images/User-Trips-by-Gender-by-Weekday.png)
 </br>
-- Most bikes are checked out around Midtown in Mahattan
+- Males have more Citi Bike subscriptions than females, but the same cannot be said for those that do not subscribe
 
 ## Summary
-One drawback of the webpage is that there is no filtering of searches. For example, if a user enters any inputs that are not in the dataset, then the webpage shows a blank table instead of saying that there are no searches found.</br>
+Explain.</br>
 
-For further development of the webpage, it would be great if the dataset was even more comprehensive since it only includes data from the first two weeks of January 2010. I would also update the information formatting to have the cities, states, countries with proper capitalization. Another recommendation would be to show a dropdown of all values present in each column to enhance the user experience.
+Additional analyses such as (1) throughout different times of the year (perhaps one in each season) would show how the seasons and (2) weather affect Citi Bike usage. These analyses would help determine trends amongst customers and subscribers.
